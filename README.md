@@ -17,11 +17,11 @@ Past five years’ stock market performance will still be applicable to the upco
 
 ###Models : Non-linear Program
 #####Objective function – Sharpe Ratio
-#####Process
+#####Data Preparation
 
-   -  Stocks prices download from Yahoo! Finance
+   -  Download daily historical stocks prices from Yahoo! Finance
    -  Format data and calculate annualized return and risk
-   -  Covariance matrix – Look for portfolio with uncorrelated assets
+   -  Construct covariance matrix – Look for portfolio with uncorrelated assets
    
 #####Traditional mix model
 
